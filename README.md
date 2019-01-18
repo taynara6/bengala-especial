@@ -12,3 +12,7 @@ https://youtu.be/fWCvrj43qNU
 
 https://youtu.be/pHYCng2Ir1A
 
+<p aling="center">
+  <img src="https://github.com/taynara6/bengala-especial/blob/master/esquema.png">
+  
+  
