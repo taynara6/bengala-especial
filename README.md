@@ -15,4 +15,7 @@ https://youtu.be/pHYCng2Ir1A
 <p aling="center">
   <img src="https://github.com/taynara6/bengala-especial/blob/master/esquema.png">
   
+  <p aling="center">
+  <img src="https://medium.com/@taynarasilvarocha6/bengala-especial-118db3ec615c">
+  
   
